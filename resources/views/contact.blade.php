@@ -101,8 +101,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="contact-about">
-              <h3>B Pure</h3>
-              <p>Deals in : All kind of organic, Ayurvedic, Herbal, Gluten-Free, Vegan Imported Products.</p>
+              <img src="assets\img\about-img1.png"height="80px"width="80px"style="border-radius:50%;margin-left:65px;"><br>
+              <h3>&nbsp;&nbsp;B Pure Organic</h3><br>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
                 <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>

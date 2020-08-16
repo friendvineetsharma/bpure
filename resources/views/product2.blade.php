@@ -97,53 +97,200 @@
     </div>
     <div class="card-deck">
   <div class="card wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\05.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Hemp Seed</h5>
+      <p class="card-text">Relieve rheumatoid arthritis.Improve skin conditions.Reduce inflammation. Boost heart health </p>
+      <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id01">Buy Now</button>
+
+      <div id="id01" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Hemp Seed</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+            <h3><u>Product Description</u></h3>
+            <p>The edible seeds contain about 30 percent oil and are a source of protein, fibre, and magnesium. Shelled hemp seeds, sometimes called hemp hearts, are sold as a health food and may be eaten raw; they are commonly sprinkled on salads or blended with fruit smoothies.</p>
+            <h4>Health Benefits:</h4>
+            <ul>
+            <li> Improve skin conditions. </li>
+            <li> Rich in antioxidants. </li>
+            <li> Reduce inflammation. </li>
+            <li> Boost heart health.</li>
+            <li> Protect the brain.</li>
+            <li> Full of protin.</li>
+            </ul>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Proceed</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="card wow fadeInDown" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\06.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Pumpkin Seed</h5>
+      <p class="card-text">May improve heart health. Can lower blood sugar level. High in fiber. </p>
+      <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id02">Buy Now</button>
+
+      <div id="id02" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-scrollable">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Pumpkin Seed</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+            <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+            <h3><u>Product Description</u></h3>
+            <p>Dried, roasted pumpkin seeds are 2% water, 49% fat, 15% carbohydrates, and 30% protein (table). In a 100 gram reference serving, the seeds are calorie-dense (574 kcal), and a rich source (20% of the Daily Value, DV, or higher) of protein, dietary fiber, niacin, iron, zinc, manganese, magnesium, and phosphorus (table).</p>
+            <h4>Health Benefits:</h4>
+            <ul>
+            <li> Full of valuable nutrients. </li>
+            <li> High in antioxidants. </li>
+            <li> Linked to a reduced risk of certain cancer. </li>
+            <li> Improve prostate and bladder health.</li>
+            <li> Very high in magnesium.</li>
+            <li> May improve heart health.</li>
+            </ul>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Proceed</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   <div class="card wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(36).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\07.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Chai Seed</h5>
+      <p class="card-text">Chia seed may lower your risk of heart disease. They’re high in many important bone nutrients. Chia seed may reduce blood sugar levels
+</p>
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id03">Buy Now</button>
+
+<div id="id03" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Chai Seed</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Chia seeds are a good source of omega-3 fatty acids, fiber, antioxidants, iron, and calcium. A 28-gram, or 1-ounce, serving of chia seeds also contains 5.6 grams of protein. Mixed with water, they can replace egg in vegan cooking.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> Chia seeds are loaded with antioxidants. </li>
+      <li> Almost all the carbs in them are fiber. </li>
+      <li> Chia seed are high in protein. </li>
+      <li> Full of omega 3.</li>
+      <li> Chia seed may lower your risk of heart disease.</li>
+      <li> Chia seed may reduce blood sugar levels.</li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
     </div>
   </div>
 </div><div class="my-5"></div>
 <div class="card-deck">
 <div class="card wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg" alt="Card image cap">
+<img class="card-img-top" src="assets\img\gallery\08.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
-</div>
-</div>
-<div class="card wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
-<div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
+  <h5 class="card-title">Flax Seed</h5>
+  <p class="card-text">Flax seeds are rich in dietary fiber. Flax seeds may improve cholesterol. Flax seed may lower blood pressure </p>
+  <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id04">Buy Now</button>
+
+  <div id="id04" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Flax Seed</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+        <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+        <h3><u>Product Description</u></h3>
+        <p>In a 100-gram serving, flaxseed contains high levels (> 19% of the Daily Value, DV) of protein, dietary fiber, several B vitamins, and dietary minerals. Ten grams of flaxseed contains one gram of water-soluble fiber (which lowers blood cholesterol) and three grams of insoluble fiber (which helps prevent constipation).</p>
+        <h4>Health Benefits:</h4>
+        <ul>
+        <li> High in omega 3. </li>
+        <li> Flax seeds are a rich source of lignans ,which my reduce cancer risk. </li>
+        <li> Chia seed are high in protein.</li>
+        <li> Flax seed are loaded with nutrients.</li>
+        <li> Flax seeds may improve cholesterol.</li>
+        <li> Flax seed may lower blood pressure.</li>
+        </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Proceed</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 <div class="card wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(36).jpg" alt="Card image cap">
+<img class="card-img-top" src="assets\img\gallery\09.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
+  <h5 class="card-title">Sunflower Seed</h5>
+  <p class="card-text">Sunflower seeds saved us from the inflammation. Sunflower seeds saved us from the heart disease. Sunflower seeds helps you in weight loss </p>
+  <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id05">Buy Now</button>
+
+  <div id="id05" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Sunflower Seed</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+        <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+        <h3><u>Product Description</u></h3>
+        <p>The sunflower seed is the fruit of the sunflower (Helianthus annuus). There are three types of commonly used sunflower seeds: linoleic (most common), high oleic, and sunflower oil seeds. ... The term "sunflower seed" is actually a misnomer when applied to the seed in its pericarp (hull).</p>
+        <h4>Health Benefits:</h4>
+        <ul>
+        <li> Sunflower seeds saved us from the inflammation. </li>
+        <li> Sunflower seeds saved us from the heart disease. </li>
+        <li> Sunflower seeds helps you in weight loss </li>
+        <li> Excellent for skin.</li>
+        <li> great for detoxification.</li>
+        </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Proceed</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 </div><div class="my-5"></div>

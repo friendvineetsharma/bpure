@@ -92,58 +92,208 @@
 
   <div class="container">
     <div class="section-header wow fadeInUp" data-wow-duration="1s">
-      <h3 class="section-title"><br><br>Herbs</h3>
+      <h3 class="section-title"><br><br>Italian Herbs</h3>
       <span class="section-divider"></span><br><br>
     </div>
     <div class="card-deck">
   <div class="card wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\01.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Oregano</h5>
+      <p class="card-text">While cooking sprinkle meat chicken with oregano for flavour.Use it in marinades or stuffing.Chop and mix into bread or pizza dough for a herby flavour. </p>
+      <!-- Large modal -->
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id01">Buy Now</button>
+
+<div id="id01" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Origano Italian Herbs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Oregano may help fight bacteria, relieve inflammation, and regulate blood sugar. People around the Mediterranean region have used oregano for centuries in herbal medicine to treat many ailments, including: skins sores. aching muscles.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> May help fight bacteria . </li>
+      <li> Rich in antioxidants. </li>
+      <li> Fights free radical activity. </li>
+      <li> May help reduce viral infections.</li>
+      <li> Fight depression.</li>
+      <li> Could decrease inflammation .</li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
+
     </div>
   </div>
   <div class="card wow fadeInDown" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Basil</h5>
+      <p class="card-text">Top whole leaves onto pizza.Finish pasta with whole or thinly sliced leaves.Blend in into sauces.
+</p>
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id02">Buy Now</button>
+
+<div id="id02" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Basil Italian Herbs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Basil is an excellent source of vitamin K, manganese, iron, vitamin A, and vitamin C. It's also a good source of calcium, magnesium, and omega-3 fatty acids. Basil isn't simply for internal use. When basil's oils are extracted to make an essential oil, it is used for treating cuts, wounds, and skin infections.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> Good for digestion . </li>
+      <li> Anti inflammatory. </li>
+      <li> Fights free radical activity. </li>
+      <li> Lots of skin benefits.</li>
+      <li> Fight depression.</li>
+      <li> Support liver function and helps detoxify the body.</li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
     </div>
   </div>
   <div class="card wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
-    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(36).jpg" alt="Card image cap">
+    <img class="card-img-top" src="assets\img\gallery\03.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <button type="button" class="btn btn-outline-primary">Buy Now</button>
+      <h5 class="card-title">Parsley</h5>
+      <p class="card-text">Rich in antioxidants. Supports bone health. ...
+Contains cancer-fighting substances.
+Rich in nutrients that protect your eyes.</p>
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id03">Buy Now</button>
+
+<div id="id03" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Parsley Italian Herbs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\03.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Rich in antioxidants and nutrients like vitamins A, K, and C, parsley may improve blood sugar and support heart, kidney, and bone health. What's more, this herb can easily be added to many tasty dishes. Parsley stays fresh for up to two weeks, whereas dried parsley may last up to a year.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> Rich in antioxidants. </li>
+      <li> Contains cancer fighting substances. </li>
+      <li> Supports bone health. </li>
+      <li> Rich in nutrition that protect your eyes.</li>
+      <li> May improve heart health.</li>
+      <li> Parsley extract has antibacterial properties.</li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
     </div>
   </div>
 </div><div class="my-5"></div>
 <div class="card-deck">
 <div class="card wow fadeInLeft" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg" alt="Card image cap">
+<img class="card-img-top" src="assets\img\gallery\04.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
-</div>
-</div>
-<div class="card wow fadeInUp" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
-<div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
+  <h5 class="card-title">Rosemary</h5>
+  <p class="card-text">High in antioxidant antimicrobial and anti inflammatory compounds.My help lower your blood sugar.May improve your mood and memory.</p>
+  <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id04">Buy Now</button>
+
+  <div id="id04" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Rosemary Italian Herbs</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+        <img class="card-img-top" src="assets\img\gallery\04.jpg" alt="Card image cap"><br><br>
+        <h3><u>Product Description</u></h3>
+        <p>The herb has been hailed since ancient times for its medicinal properties. Rosemary was traditionally used to help alleviate muscle pain, improve memory, boost the immune and circulatory system, and promote hair growth.</p>
+        <h4>Health Benefits:</h4>
+        <ul>
+        <li> High in antioxidant antimicrobial and anti inflammatory compounds. </li>
+        <li> My help lower your blood sugar. </li>
+        <li> May improve your mood and memory. </li>
+        <li> May support brain health.</li>
+        <li> May protect vision and eye health .</li>
+        </ul>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Proceed</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 <div class="card wow fadeInRight" data-wow-delay="0.5s" data-wow-duration="1s">
-<img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(36).jpg" alt="Card image cap">
+<img class="card-img-top" src="assets\img\gallery\10.jpg" alt="Card image cap">
 <div class="card-body">
-  <h5 class="card-title">Card title</h5>
-  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-  <button type="button" class="btn btn-outline-primary">Buy Now</button>
+  <h5 class="card-title">Thyme</h5>
+  <p class="card-text">Thyme to lower blood pressure.Thyme to stop coughing.Thyme to boost your immunity.Thyme to disinfect.
+</p>
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id05">Buy Now</button>
+
+<div id="id05" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Thyme Italian Herbs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\10.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Getting all the vitamins your body needs every day can be challenging. Luckily, thyme is packed with vitamin C and is also a good source of vitamin A. If you feel a cold coming on, thyme can help get you back in good health. Another health benefit of thyme: It's a good source of copper, fiber, iron, and manganese.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> Thyme to lower blood pressure </li>
+      <li> Thyme to lower stop coughing </li>
+      <li> Thyme to lower boost your immunity  </li>
+      <li> Thyme to lower disinfect </li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
 </div>
 </div><div class="my-5"></div>

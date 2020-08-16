@@ -67,90 +67,22 @@
   <div class="carousel-inner">
     <div class="carousel-item">
       <section id="intro">
-
-        <div class="intro-text">
-          <h2>Welcome to B Pure</h2>
-          <p>Our vision is to reconnect people to the nature<br> by providing chemical free products from their Original source</p>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        </div>
-
-        <div class="product-screens">
-
-          <div class="product-screen-1 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-1.jpg" alt="">
-          </div>
-
-          <div class="product-screen-2 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-2.jpg" alt="">
-          </div>
-
-          <div class="product-screen-3 wow fadeInUp" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-3.jpg" alt="">
-          </div>
-
-        </div>
-
-      </section>
-    </div>
+      <img src="https://images.unsplash.com/photo-1563377225929-7084bcef8e24?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=700&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1400"height="100%"width="100%">
+    </section></div>
     <div class="carousel-item">
       <section id="intro">
-
-        <div class="intro-text">
-          <h2>Welcome to B Pure</h2>
-          <p>Our vision is to reconnect people to the nature<br> by providing chemical free products from their Original source</p>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        </div>
-
-        <div class="product-screens">
-
-          <div class="product-screen-1 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-1.jpg" alt="">
-          </div>
-
-          <div class="product-screen-2 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-2.jpg" alt="">
-          </div>
-
-          <div class="product-screen-3 wow fadeInUp" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-3.jpg" alt="">
-          </div>
-
-        </div>
-
-      </section>
-    </div>
+      <img src="https://images.unsplash.com/photo-1533792344354-ed5e8fc12494?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=700&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1400"height="100%"width="100%">
+    </section></div>
     <div class="carousel-item">
       <section id="intro">
-
-        <div class="intro-text">
-          <h2>Welcome to B Pure</h2>
-          <p>Our vision is to reconnect people to the nature<br> by providing chemical free products from their Original source</p>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        </div>
-
-        <div class="product-screens">
-
-          <div class="product-screen-1 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-1.jpg" alt="">
-          </div>
-
-          <div class="product-screen-2 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-2.jpg" alt="">
-          </div>
-
-          <div class="product-screen-3 wow fadeInUp" data-wow-duration="0.6s">
-            <img src="assets/img/product-screen-3.jpg" alt="">
-          </div>
-
-        </div>
-
-      </section>
+      <img src="https://images.unsplash.com/photo-1537125649531-00a6346df003?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=700&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1400"height="100%"width="100%">
+    </section>
     </div>
     <div class="carousel-item active">
       <section id="intro">
 
         <div class="intro-text">
-          <h2>Welcome to B Pure</h2>
+          <h2><br>Welcome to B Pure</h2>
           <p>Our vision is to reconnect people to the nature<br> by providing chemical free products from their Original source</p>
           <a href="#about" class="btn-get-started scrollto">Get Started</a>
         </div>
@@ -244,12 +176,11 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(34).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\01.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 1</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Oregano Italian Herbs</h4>
+                    <p class="card-text">Could have anti cancer properties.May help reduce viral infections.Could decrease inflammation </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -257,12 +188,11 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\02.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 2</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Basil Italian Herbs</h4>
+                    <p class="card-text">Fights free radical activity.Lots of skin benefits.Fight depression </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -270,12 +200,13 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\03.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 3</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Parsley Italian Herbs</h4>
+                    <p class="card-text">Supports bone health.
+Contains cancer-fighting substances.
+Rich in nutrients that protect your eyes.</p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -291,12 +222,11 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(60).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\04.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 4</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Rosemary Italian Herbs</h4>
+                    <p class="card-text">My help lower your blood sugar.May improve your mood and memory.May support brain health </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -304,12 +234,11 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(47).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\05.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 5</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Hemp Seeds</h4>
+                    <p class="card-text">Reduce inflammation.Boost heart health.Protect the brain.</p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -317,12 +246,11 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/City/4-col/img%20(48).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\06.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 6</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Pumpkin Seeds</h4>
+                    <p class="card-text">Full of valuable nutrients.High in antioxidants.Linked to a reduced risk of certain cancer </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -338,12 +266,11 @@
             <div class="row">
               <div class="col-md-4">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/4-col/img%20(53).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\07.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 7</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Chia Seed</h4>
+                    <p class="card-text">Chia seeds are loaded with antioxidants.Almost all the carbs in them are fiber.Chia seed are high in protein </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -351,12 +278,11 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/4-col/img%20(45).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\08.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 8</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Flax Seed</h4>
+                    <p class="card-text"> Flax seeds are a rich source of lignans ,which my reduce cancer risk.Flax seed are loaded with nutrients.</p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -364,12 +290,11 @@
 
               <div class="col-md-4 clearfix d-none d-md-block">
                 <div class="card mb-2">
-                  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Horizontal/Food/4-col/img%20(51).jpg"
+                  <img class="card-img-top" src="assets\img\gallery\09.jpg"
                     alt="Card image cap">
                   <div class="card-body">
-                    <h4 class="card-title">Card 9</h4>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the
-                      card's content.</p>
+                    <h4 class="card-title">Sunflower Seed</h4>
+                    <p class="card-text">Helps you in weight loss.Excellent for skin.Great for detoxification. Sunflower seeds saved us from the inflammation  </p>
                     <button type="button" class="btn btn-outline-primary">Buy Now</button>
                   </div>
                 </div>
@@ -546,23 +471,23 @@ Original source,</p>
             <div align="center">
             <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(6).jpg" width="100px"height="100px" alt="First slide"style="border-radius:50%;"><br>
             <h3>Anna Deynah</h3>
-            <h5><font color="blue">Web Designer</font></h5>
-            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic tenetur.</p>
+            <h5><font color="blue">Sales Manager</font></h5>
+            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">Products are Great. Sales has been increased 55% from the last years.</p>
           </div></div>
           <div class="carousel-item">
             <div align="center">
-            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(6).jpg" width="100px"height="100px" alt="First slide"style="border-radius:50%;"><br>
-            <h3>Deynah</h3>
-            <h5><font color="blue">Web Designer</font></h5>
-            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic tenetur.</p>
+            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg" width="100px"height="100px" alt="First slide"style="border-radius:50%;"><br>
+            <h3>Prince</h3>
+            <h5><font color="blue">Product Manager</font></h5>
+            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">All customers are positive revies about these products. Keep it on guys. Your products are good then then other company products.</p>
           </div>
           </div>
           <div class="carousel-item">
             <div align="center">
-            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(6).jpg" width="100px"height="100px" alt="First slide"style="border-radius:50%;"><br>
-            <h3>Anna</h3>
-            <h5><font color="blue">Web Designer</font></h5>
-            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic tenetur.</p>
+            <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg" width="100px"height="100px" alt="First slide"style="border-radius:50%;"><br>
+            <h3>Charlie</h3>
+            <h5><font color="blue">Product Distributer</font></h5>
+            <p><img src="https://img.icons8.com/fluent/48/000000/quote-left.png"/width="30px"height="30px">Keet it on guys. Produts are of good quality and even health beneficial.</p>
           </div>
           </div>
         </div>
