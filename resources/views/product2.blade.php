@@ -113,7 +113,7 @@
               </button>
             </div>
             <div class="modal-body">
-            <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+            <img class="card-img-top" src="assets\img\gallery\05.jpg" alt="Card image cap"><br><br>
             <h3><u>Product Description</u></h3>
             <p>The edible seeds contain about 30 percent oil and are a source of protein, fibre, and magnesium. Shelled hemp seeds, sometimes called hemp hearts, are sold as a health food and may be eaten raw; they are commonly sprinkled on salads or blended with fruit smoothies.</p>
             <h4>Health Benefits:</h4>
@@ -152,7 +152,7 @@
               </button>
             </div>
             <div class="modal-body">
-            <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+            <img class="card-img-top" src="assets\img\gallery\06.jpg" alt="Card image cap"><br><br>
             <h3><u>Product Description</u></h3>
             <p>Dried, roasted pumpkin seeds are 2% water, 49% fat, 15% carbohydrates, and 30% protein (table). In a 100 gram reference serving, the seeds are calorie-dense (574 kcal), and a rich source (20% of the Daily Value, DV, or higher) of protein, dietary fiber, niacin, iron, zinc, manganese, magnesium, and phosphorus (table).</p>
             <h4>Health Benefits:</h4>
@@ -192,7 +192,7 @@
         </button>
       </div>
       <div class="modal-body">
-      <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+      <img class="card-img-top" src="assets\img\gallery\07.jpg" alt="Card image cap"><br><br>
       <h3><u>Product Description</u></h3>
       <p>Chia seeds are a good source of omega-3 fatty acids, fiber, antioxidants, iron, and calcium. A 28-gram, or 1-ounce, serving of chia seeds also contains 5.6 grams of protein. Mixed with water, they can replace egg in vegan cooking.</p>
       <h4>Health Benefits:</h4>
@@ -233,7 +233,7 @@
           </button>
         </div>
         <div class="modal-body">
-        <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+        <img class="card-img-top" src="assets\img\gallery\08.jpg" alt="Card image cap"><br><br>
         <h3><u>Product Description</u></h3>
         <p>In a 100-gram serving, flaxseed contains high levels (> 19% of the Daily Value, DV) of protein, dietary fiber, several B vitamins, and dietary minerals. Ten grams of flaxseed contains one gram of water-soluble fiber (which lowers blood cholesterol) and three grams of insoluble fiber (which helps prevent constipation).</p>
         <h4>Health Benefits:</h4>
@@ -272,7 +272,7 @@
           </button>
         </div>
         <div class="modal-body">
-        <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+        <img class="card-img-top" src="assets\img\gallery\09.jpg" alt="Card image cap"><br><br>
         <h3><u>Product Description</u></h3>
         <p>The sunflower seed is the fruit of the sunflower (Helianthus annuus). There are three types of commonly used sunflower seeds: linoleic (most common), high oleic, and sunflower oil seeds. ... The term "sunflower seed" is actually a misnomer when applied to the seed in its pericarp (hull).</p>
         <h4>Health Benefits:</h4>
@@ -315,7 +315,7 @@
         <div class="row">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="copyright">
-              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>
+              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>Developed & Hosted by <strong>SVANS Technologies</strong>.<br><br>
             </div>
           </div>
           <div class="col-lg-6">

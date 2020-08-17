@@ -100,7 +100,7 @@
 
         <div class="row">
           <div class="col-lg-6 about-img wow fadeInLeft">
-            <img src="assets/img/about-img.png" alt="">
+            <img src="assets/img/about-img1.png" alt=""style="border-radius:50%;margin-left:110px;">
           </div>
 
           <div class="col-lg-6 content wow fadeInRight"><br>
@@ -132,7 +132,7 @@ Original source,</p>
         <div class="row">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="copyright">
-              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>
+              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>Developed & Hosted by <strong>SVANS Technologies</strong>.<br><br>
             </div>
           </div>
           <div class="col-lg-6">

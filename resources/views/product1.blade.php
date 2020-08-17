@@ -114,7 +114,7 @@
         </button>
       </div>
       <div class="modal-body">
-      <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+      <img class="card-img-top" src="assets\img\gallery\01.jpg" alt="Card image cap"><br><br>
       <h3><u>Product Description</u></h3>
       <p>Oregano may help fight bacteria, relieve inflammation, and regulate blood sugar. People around the Mediterranean region have used oregano for centuries in herbal medicine to treat many ailments, including: skins sores. aching muscles.</p>
       <h4>Health Benefits:</h4>
@@ -318,7 +318,7 @@ Rich in nutrients that protect your eyes.</p>
         <div class="row">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="copyright">
-              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>
+              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>Developed & Hosted by <strong>SVANS Technologies</strong>.<br><br>
             </div>
           </div>
           <div class="col-lg-6">

@@ -181,7 +181,38 @@
                   <div class="card-body">
                     <h4 class="card-title">Oregano Italian Herbs</h4>
                     <p class="card-text">Could have anti cancer properties.May help reduce viral infections.Could decrease inflammation </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id01">Buy Now</button>
+
+                    <div id="id01" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Origano Italian Herbs</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\01.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>Oregano may help fight bacteria, relieve inflammation, and regulate blood sugar. People around the Mediterranean region have used oregano for centuries in herbal medicine to treat many ailments, including: skins sores. aching muscles.</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> May help fight bacteria . </li>
+                          <li> Rich in antioxidants. </li>
+                          <li> Fights free radical activity. </li>
+                          <li> May help reduce viral infections.</li>
+                          <li> Fight depression.</li>
+                          <li> Could decrease inflammation .</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -193,7 +224,38 @@
                   <div class="card-body">
                     <h4 class="card-title">Basil Italian Herbs</h4>
                     <p class="card-text">Fights free radical activity.Lots of skin benefits.Fight depression </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id02">Buy Now</button>
+
+                    <div id="id02" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Basil Italian Herbs</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\02.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>Basil is an excellent source of vitamin K, manganese, iron, vitamin A, and vitamin C. It's also a good source of calcium, magnesium, and omega-3 fatty acids. Basil isn't simply for internal use. When basil's oils are extracted to make an essential oil, it is used for treating cuts, wounds, and skin infections.</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> Good for digestion . </li>
+                          <li> Anti inflammatory. </li>
+                          <li> Fights free radical activity. </li>
+                          <li> Lots of skin benefits.</li>
+                          <li> Fight depression.</li>
+                          <li> Support liver function and helps detoxify the body.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -207,7 +269,38 @@
                     <p class="card-text">Supports bone health.
 Contains cancer-fighting substances.
 Rich in nutrients that protect your eyes.</p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+<button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id03">Buy Now</button>
+
+<div id="id03" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Parsley Italian Herbs</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      <img class="card-img-top" src="assets\img\gallery\03.jpg" alt="Card image cap"><br><br>
+      <h3><u>Product Description</u></h3>
+      <p>Rich in antioxidants and nutrients like vitamins A, K, and C, parsley may improve blood sugar and support heart, kidney, and bone health. What's more, this herb can easily be added to many tasty dishes. Parsley stays fresh for up to two weeks, whereas dried parsley may last up to a year.</p>
+      <h4>Health Benefits:</h4>
+      <ul>
+      <li> Rich in antioxidants. </li>
+      <li> Contains cancer fighting substances. </li>
+      <li> Supports bone health. </li>
+      <li> Rich in nutrition that protect your eyes.</li>
+      <li> May improve heart health.</li>
+      <li> Parsley extract has antibacterial properties.</li>
+      </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Proceed</button>
+      </div>
+    </div>
+  </div>
+</div>
                   </div>
                 </div>
               </div>
@@ -227,7 +320,37 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Rosemary Italian Herbs</h4>
                     <p class="card-text">My help lower your blood sugar.May improve your mood and memory.May support brain health </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id04">Buy Now</button>
+
+                    <div id="id04" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Rosemary Italian Herbs</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\04.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>The herb has been hailed since ancient times for its medicinal properties. Rosemary was traditionally used to help alleviate muscle pain, improve memory, boost the immune and circulatory system, and promote hair growth.</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> High in antioxidant antimicrobial and anti inflammatory compounds. </li>
+                          <li> My help lower your blood sugar. </li>
+                          <li> May improve your mood and memory. </li>
+                          <li> May support brain health.</li>
+                          <li> May protect vision and eye health .</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -239,7 +362,38 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Hemp Seeds</h4>
                     <p class="card-text">Reduce inflammation.Boost heart health.Protect the brain.</p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id05">Buy Now</button>
+
+                    <div id="id05" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Hemp Seed</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\05.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>The edible seeds contain about 30 percent oil and are a source of protein, fibre, and magnesium. Shelled hemp seeds, sometimes called hemp hearts, are sold as a health food and may be eaten raw; they are commonly sprinkled on salads or blended with fruit smoothies.</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> Improve skin conditions. </li>
+                          <li> Rich in antioxidants. </li>
+                          <li> Reduce inflammation. </li>
+                          <li> Boost heart health.</li>
+                          <li> Protect the brain.</li>
+                          <li> Full of protin.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -251,7 +405,38 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Pumpkin Seeds</h4>
                     <p class="card-text">Full of valuable nutrients.High in antioxidants.Linked to a reduced risk of certain cancer </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id06">Buy Now</button>
+
+                    <div id="id06" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Pumpkin Seed</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\06.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>Dried, roasted pumpkin seeds are 2% water, 49% fat, 15% carbohydrates, and 30% protein (table). In a 100 gram reference serving, the seeds are calorie-dense (574 kcal), and a rich source (20% of the Daily Value, DV, or higher) of protein, dietary fiber, niacin, iron, zinc, manganese, magnesium, and phosphorus (table).</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> Full of valuable nutrients. </li>
+                          <li> High in antioxidants. </li>
+                          <li> Linked to a reduced risk of certain cancer. </li>
+                          <li> Improve prostate and bladder health.</li>
+                          <li> Very high in magnesium.</li>
+                          <li> May improve heart health.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -271,7 +456,38 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Chia Seed</h4>
                     <p class="card-text">Chia seeds are loaded with antioxidants.Almost all the carbs in them are fiber.Chia seed are high in protein </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id07">Buy Now</button>
+
+                    <div id="id07" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Chai Seed</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\07.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>Chia seeds are a good source of omega-3 fatty acids, fiber, antioxidants, iron, and calcium. A 28-gram, or 1-ounce, serving of chia seeds also contains 5.6 grams of protein. Mixed with water, they can replace egg in vegan cooking.</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> Chia seeds are loaded with antioxidants. </li>
+                          <li> Almost all the carbs in them are fiber. </li>
+                          <li> Chia seed are high in protein. </li>
+                          <li> Full of omega 3.</li>
+                          <li> Chia seed may lower your risk of heart disease.</li>
+                          <li> Chia seed may reduce blood sugar levels.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -283,7 +499,38 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Flax Seed</h4>
                     <p class="card-text"> Flax seeds are a rich source of lignans ,which my reduce cancer risk.Flax seed are loaded with nutrients.</p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id08">Buy Now</button>
+
+                    <div id="id08" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Flax Seed</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\08.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>In a 100-gram serving, flaxseed contains high levels (> 19% of the Daily Value, DV) of protein, dietary fiber, several B vitamins, and dietary minerals. Ten grams of flaxseed contains one gram of water-soluble fiber (which lowers blood cholesterol) and three grams of insoluble fiber (which helps prevent constipation).</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> High in omega 3. </li>
+                          <li> Flax seeds are a rich source of lignans ,which my reduce cancer risk. </li>
+                          <li> Chia seed are high in protein.</li>
+                          <li> Flax seed are loaded with nutrients.</li>
+                          <li> Flax seeds may improve cholesterol.</li>
+                          <li> Flax seed may lower blood pressure.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -295,7 +542,37 @@ Rich in nutrients that protect your eyes.</p>
                   <div class="card-body">
                     <h4 class="card-title">Sunflower Seed</h4>
                     <p class="card-text">Helps you in weight loss.Excellent for skin.Great for detoxification. Sunflower seeds saved us from the inflammation  </p>
-                    <button type="button" class="btn btn-outline-primary">Buy Now</button>
+                    <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#id09">Buy Now</button>
+
+                    <div id="id09" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Sunflower Seed</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                          <img class="card-img-top" src="assets\img\gallery\09.jpg" alt="Card image cap"><br><br>
+                          <h3><u>Product Description</u></h3>
+                          <p>The sunflower seed is the fruit of the sunflower (Helianthus annuus). There are three types of commonly used sunflower seeds: linoleic (most common), high oleic, and sunflower oil seeds. ... The term "sunflower seed" is actually a misnomer when applied to the seed in its pericarp (hull).</p>
+                          <h4>Health Benefits:</h4>
+                          <ul>
+                          <li> Sunflower seeds saved us from the inflammation. </li>
+                          <li> Sunflower seeds saved us from the heart disease. </li>
+                          <li> Sunflower seeds helps you in weight loss </li>
+                          <li> Excellent for skin.</li>
+                          <li> great for detoxification.</li>
+                          </ul>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <button type="button" class="btn btn-primary">Proceed</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -310,7 +587,7 @@ Rich in nutrients that protect your eyes.</p>
       </div>
       <!--/.Carousel Wrapper--><br><br>
 <div align="center">
-      <button type="button" class="btn btn-success btn-lg">View More Products</button>
+      <a href="/product1"><button type="button" class="btn btn-success btn-lg">View More Products</button></a>
 </div><br><br><br><br>
 
     </div>
@@ -503,7 +780,7 @@ Original source,</p>
       <div class="row">
         <div class="col-lg-6 text-lg-left text-center">
           <div class="copyright">
-            &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>
+            &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>Developed & Hosted by <strong>SVANS Technologies</strong>.<br><br>
           </div>
         </div>
         <div class="col-lg-6">

@@ -101,8 +101,8 @@
 
           <div class="col-lg-4 col-md-4">
             <div class="contact-about">
-              <img src="assets\img\about-img1.png"height="80px"width="80px"style="border-radius:50%;margin-left:65px;"><br>
-              <h3>&nbsp;&nbsp;B Pure Organic</h3><br>
+              <h3>B Pure Organic</h3>
+              <br>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
                 <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
@@ -122,7 +122,7 @@
 
               <div>
                 <i class="ion-ios-email-outline"></i>
-                <p>bnegi412@gmail.com</p>
+                <p>info@bpureorganic.in</p>
               </div>
 
               <div>
@@ -176,7 +176,7 @@
         <div class="row">
           <div class="col-lg-6 text-lg-left text-center">
             <div class="copyright">
-              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>
+              &copy; Copyright <strong>B Pure</strong>. All Rights Reserved<br><br>Developed & Hosted by <strong>SVANS Technologies</strong>.<br><br>
             </div>
           </div>
           <div class="col-lg-6">
